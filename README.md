@@ -1,0 +1,1 @@
+This program is written in R language. It predicts the number of likes on a post given the number of reactions. The data set is being used to train the model and then 30% of data is being used to test the accuarcy of prediction.
